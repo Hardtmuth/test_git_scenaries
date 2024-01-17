@@ -1,5 +1,39 @@
 {
   "name": "first commit",
   "description": "Text for first commit.",
-  "author": "Andrey Abramov"
+  "author": "Andrey Abramov",
+  "steps": {
+    "step_1": {
+      "second commit": {
+        "1": "Add data for second commit.",
+        "2": "Add second file.",
+        "3": "Add data to second file."
+      },
+      "add_dev_bransh": {
+        "1": "Add Dev branch.",
+        "2": "Add file in Dev branch.",
+        "3": "Add data in Dev file.",
+        "4": "Commit in Dev branch",
+        "5": "Change second file in Dev branch."
+      },
+      "return in main branch": {
+        "1": "Edit second file.",
+        "2": "Add third file.",
+        "3": "Add data to third file."
+      },
+      "go_to_dev_branch": {
+        "1": "Change third file",
+        "2": "test commit cancellation."
+      }
+    },
+    "status": "in progress."
+  },
+  "step_2": {
+    "test_git_megre": {
+      "1": "merge dev branch into main."
+    },
+    "test_git_rebase": {
+      "1": "git rebase in dev branch."
+    }
+  }
 }
