@@ -1,3 +1,4 @@
 {
-  "some_data": "for second commit."
+  "some_data": "for second commit. edit data in main branh.",
+  "add_data": "in second file from dev branch."
 }
